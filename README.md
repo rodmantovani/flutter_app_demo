@@ -2,7 +2,7 @@
 
 ## Sample pages
 
-products | PageProducts() | page_products.dart
+products | PageProducts() | page_products.dart  [link]<https://github.com/rodmantovani/flutter_app_demo/blob/main/lib/pages/page_api.dart>
   
 categories | PageCategories() | page_categories.dart
   
